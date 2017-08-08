@@ -1,0 +1,10 @@
+Package: BrundleData
+Type: Package
+Title: Data to support examples of the Brundle Package
+Version: 0.1.0
+Author: Andrew Holding
+Maintainer: Andrew Holding <andrew.holding@cruk.cam.ac.uk>
+Description: ER ChIP-seq data for 3 replicates of MCF7 cells with and without Fulvestrant treatment. Data was generated with a CTCF internal control, and to reduce size is limited to only Chr22.
+License: CC BY 4.0
+Encoding: UTF-8
+LazyData: true
